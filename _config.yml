@@ -1,0 +1,54 @@
+color:
+  brandColors:
+    - '#141218'
+    - '#FFFFFF'
+    - '#77797B'
+    - '#E19A26'
+    - '#FE0029'
+  brandStrength: 0.3580810446292162
+  lightness: 0.23438590043224394
+  saturation: 0.8797711771912873
+  rhythmicContrast: 0.15065512317232788
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: It's a MAN's World
+layout_spectrum: 0.7361833588220179
+typography_spectrum: 0.3198166307993233
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4990229-41ac-4a03-ae05-b932ad57472c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4990229-41ac-4a03-ae05-b932ad57472c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: It's a MAN's World
+description: 'Where Manhood Is Celebrated, Not Debated'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/855f188c-b1c8-4306-803b-dfd96088a21a.png
+author:
+  name: MJ
+  email: author@supercyrano.com
+github: true
