@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There is an image of what Americans see as manhood that isn’t quite uniquely
   American, but it’s close.
-dateModified: '2017-03-24T22:31:41.952Z'
-datePublished: '2017-03-24T22:31:43.129Z'
+dateModified: '2017-03-24T22:45:16.082Z'
+datePublished: '2017-03-24T22:45:16.562Z'
 title: What is a Man?
 author: []
 publisher: {}
@@ -39,3 +39,7 @@ If he is smart, a part of what motivates him to fix a light switch, replace a pi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dcb3c7c-752a-4a15-bf93-b729bc7b8a2f.jpg)
 
 This is the man our site is dedicated to.
+
+[But Not every guy is married with kids!][0]
+
+[0]: http://itsamans.world/but-not-every-guy-is-married-with-kids
