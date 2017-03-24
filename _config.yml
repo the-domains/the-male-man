@@ -1,3 +1,4 @@
+typography_spectrum: 0.3198166307993233
 color:
   brandColors:
     - '#141218'
@@ -9,6 +10,15 @@ color:
   lightness: 0.23438590043224394
   saturation: 0.8797711771912873
   rhythmicContrast: 0.15065512317232788
+github: true
+layout_spectrum: 0.7361833588220179
+author:
+  name: MJ
+  email: author@supercyrano.com
+  url: 'http://itsamans.world'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/855f188c-b1c8-4306-803b-dfd96088a21a.png
+name: It's a MAN's World
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +26,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: It's a MAN's World
-layout_spectrum: 0.7361833588220179
-typography_spectrum: 0.3198166307993233
+navigation:
+  - name: About Us
+    id: bc30ab32-0cd0-4bf1-bbbe-9a49ef208188
+    type: content
+title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,28 +40,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4990229-41ac-4a03-ae05-b932ad57472c.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: It's a MAN's World
 description: 'Where Manhood Is Celebrated, Not Debated'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/855f188c-b1c8-4306-803b-dfd96088a21a.png
-author:
-  name: MJ
-  email: author@supercyrano.com
-  url: 'http://itsamans.world'
-github: true
