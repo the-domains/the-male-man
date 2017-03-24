@@ -3,17 +3,19 @@ inFeed: true
 description: >-
   This is a site for guys to get what guys want, from places they can relate to,
   and based on good information. And it’s about just being a guy.
-dateModified: '2017-02-16T20:50:41.088Z'
-datePublished: '2017-02-16T20:50:41.909Z'
+dateModified: '2017-03-24T22:29:58.974Z'
+datePublished: '2017-03-24T22:30:00.210Z'
 title: Who We Are Here For…
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-02-02-this-is-a-site-for-guy-to-get-what-guys-want-from-places-the.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-16T20:46:03.197Z'
-_type: Blurb
+url: who-we-are-here-for/index.html
+_type: Article
 
 ---
 # Who We Are Here For...
