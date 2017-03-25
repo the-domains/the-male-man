@@ -1,22 +1,21 @@
 ---
 inFeed: true
-description: >-
-  There is an image of what Americans see as manhood that isn’t quite uniquely
-  American, but it’s close.
-dateModified: '2017-03-25T01:02:43.662Z'
-datePublished: '2017-03-25T01:02:44.914Z'
+description: ABOUT YOU
+dateModified: '2017-03-25T20:02:22.092Z'
+datePublished: '2017-03-25T20:02:22.555Z'
 title: What is a Man?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-02-what-is-a-man.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-02-16T20:51:56.660Z'
-url: what-is-a-man/index.html
-_type: Article
+_type: Blurb
 
 ---
+ABOUT YOU
+
 # What is a Man?
 
 There is an image of what Americans see as manhood that isn't **quite** uniquely American, but it's close.
