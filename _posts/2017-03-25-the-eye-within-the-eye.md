@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: There is something about a quality photograph that really speaks to us.
-dateModified: '2017-03-25T19:47:20.766Z'
-datePublished: '2017-03-25T19:47:21.397Z'
+dateModified: '2017-03-25T19:57:52.081Z'
+datePublished: '2017-03-25T19:57:52.473Z'
 title: The Eye Within the Eye
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
+sourcePath: _posts/2017-03-25-the-eye-within-the-eye.md
 starred: false
 datePublishedOriginal: '2017-03-25T19:47:21.397Z'
-sourcePath: _posts/2017-03-25-the-eye-within-the-eye.md
-url: the-eye-within-the-eye/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Eye Within the Eye
@@ -31,7 +30,7 @@ No doubt, those things are important. But there is far more to it.
 
 People like [Kathleen Roche][0] have that innate ability to give a photograph life. I envy them.
 
-I use her work here and hope to do so more on the future. 
+I use her work here and hope to do so more on the future.
 
 But among the hobbies, habits and passions one may pursue, one that can bring real satisfaction as well as tangible results would have to be photography.
 
