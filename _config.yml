@@ -27,8 +27,8 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About Us
-    id: bc30ab32-0cd0-4bf1-bbbe-9a49ef208188
+  - name: What is a man
+    id: c533441e-bce8-4eb4-a4f5-53b1c3522dad
     type: content
 title: It's a MAN's World
 content:
