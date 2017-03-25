@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This is a site for guys to get what guys want, from places they can relate to,
   and based on good information. And it’s about just being a guy.
-dateModified: '2017-03-24T22:29:58.974Z'
-datePublished: '2017-03-24T22:30:00.210Z'
+dateModified: '2017-03-25T20:34:40.811Z'
+datePublished: '2017-03-25T20:34:40.996Z'
 title: Who We Are Here For…
 author: []
 publisher: {}
