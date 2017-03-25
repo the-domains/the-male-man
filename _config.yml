@@ -33,6 +33,9 @@ navigation:
   - name: Not Every Man Is Married With Kids
     id: 5d30d091-ca53-4364-9c90-f48add0fa411
     type: content
+  - name: The Eye Within The Eye
+    id: 6e63d16a-385a-435d-9017-383087d12857
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
