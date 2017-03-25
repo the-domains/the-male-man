@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: There is something about a quality photograph that really speaks to us.
-dateModified: '2017-03-25T20:34:40.811Z'
-datePublished: '2017-03-25T20:34:40.996Z'
+dateModified: '2017-03-25T20:35:23.745Z'
+datePublished: '2017-03-25T20:35:24.146Z'
 title: The Eye Within the Eye
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ I use her work here and hope to do so more on the future.
 
 But among the hobbies, habits and passions one may pursue, one that can bring real satisfaction as well as tangible results would have to be photography.
 
-Tom Jordan, a photographer from Pennsylvania, says the he goes out and just walks. It could be on the beach, or in Philadelphia or in his favorite park (location secret) and he says, "I don't know what I'm going to get, or where I'm going to get it, but I know that day I'm going to really nail a picture."
+Tom Jordan, a photographer from Pennsylvania, says the he goes out and just walks. It could be on the beach, or in Philadelphia or in his favorite park (location secret) and he says, "I don't know what I'm going to get, or where I'm going to get it, but I know that day I'm going to really nail a picture." 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxljtEKgjAYhV9l-AD7ly3NMAmELqNXWPPXjdJ_bEPp7ZtCF9HlgfN959wNRWKtx87GE6sVMx77c2ZidOEEsCwL719WPz3XNIJb2wFkUUl52BWXmxCwF1JWVZGXxxyyxmHnKdiRMJQ1qIZdN5rNVv3akzwZXW8HE1d31rTfuHF_V7RHFe2MqTvSFDj5AZIbp4ABHm_IuUj7Wm_0B8D6RvE" height="244" style=""></iframe>
 
