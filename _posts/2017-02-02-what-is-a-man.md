@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: ABOUT YOU
-dateModified: '2017-03-25T20:02:22.092Z'
-datePublished: '2017-03-25T20:02:22.555Z'
+description: >-
+  There is an image of what Americans see as manhood that isn’t quite uniquely
+  American, but it’s close.
+dateModified: '2017-03-25T20:03:26.503Z'
+datePublished: '2017-03-25T20:03:27.273Z'
 title: What is a Man?
 author: []
 publisher: {}
@@ -14,8 +16,6 @@ datePublishedOriginal: '2017-02-16T20:51:56.660Z'
 _type: Blurb
 
 ---
-ABOUT YOU
-
 # What is a Man?
 
 There is an image of what Americans see as manhood that isn't **quite** uniquely American, but it's close.
