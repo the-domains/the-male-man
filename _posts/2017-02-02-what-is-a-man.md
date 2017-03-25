@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There is an image of what Americans see as manhood that isn’t quite uniquely
   American, but it’s close.
-dateModified: '2017-03-24T22:45:16.082Z'
-datePublished: '2017-03-24T22:45:16.562Z'
+dateModified: '2017-03-25T01:02:43.662Z'
+datePublished: '2017-03-25T01:02:44.914Z'
 title: What is a Man?
 author: []
 publisher: {}
@@ -38,8 +38,11 @@ He isn't arrogant. He loves easily. He beams with pride at his kids. His son mak
 If he is smart, a part of what motivates him to fix a light switch, replace a pipe, paint a wall, or head out to work everyday, is his desire to show off for the woman he loves.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dcb3c7c-752a-4a15-bf93-b729bc7b8a2f.jpg)
 
+Photo credit: [http://kathleenroche.wixsite.com/photo][0]
+
 This is the man our site is dedicated to.
 
-[But Not every guy is married with kids!][0]
+[But Not every guy is married with kids!][1]
 
-[0]: http://itsamans.world/but-not-every-guy-is-married-with-kids
+[0]: http://kathleenroche.wixsite.com/photo
+[1]: http://itsamans.world/but-not-every-guy-is-married-with-kids
