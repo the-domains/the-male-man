@@ -30,6 +30,9 @@ navigation:
   - name: What is a man
     id: c533441e-bce8-4eb4-a4f5-53b1c3522dad
     type: content
+  - name: Not Every Man Is Married With Kids
+    id: 5d30d091-ca53-4364-9c90-f48add0fa411
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
