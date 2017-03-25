@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: There is something about a quality photograph that really speaks to us.
-dateModified: '2017-03-25T20:33:29.220Z'
-datePublished: '2017-03-25T20:33:29.694Z'
+dateModified: '2017-03-25T20:34:40.811Z'
+datePublished: '2017-03-25T20:34:40.996Z'
 title: The Eye Within the Eye
 author: []
 publisher: {}
