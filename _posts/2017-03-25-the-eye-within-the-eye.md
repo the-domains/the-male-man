@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: There is something about a quality photograph that really speaks to us.
-dateModified: '2017-03-25T21:10:10.263Z'
-datePublished: '2017-03-25T21:10:10.516Z'
+dateModified: '2017-03-25T21:19:05.817Z'
+datePublished: '2017-03-25T21:19:06.456Z'
 title: The Eye Within the Eye
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-03-25-the-eye-within-the-eye.md
 starred: false
 datePublishedOriginal: '2017-03-25T19:47:21.397Z'
-_type: Blurb
+url: the-eye-within-the-eye/index.html
+_type: Article
 
 ---
 # The Eye Within the Eye
