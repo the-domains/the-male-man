@@ -36,6 +36,9 @@ navigation:
   - name: The Eye Within The Eye
     id: 6e63d16a-385a-435d-9017-383087d12857
     type: content
+  - name: Hobbies and Pursuits
+    id: a19f7c6d-a528-4c2f-9366-578e43b05784
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
