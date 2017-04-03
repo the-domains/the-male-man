@@ -31,11 +31,11 @@ navigation:
   - name: What is a man
     id: c533441e-bce8-4eb4-a4f5-53b1c3522dad
     type: content
-  - name: Hobbies and Pursuits
-    id: a19f7c6d-a528-4c2f-9366-578e43b05784
-    type: content
   - name: Not Every Man Is Married With Kids
     id: 5d30d091-ca53-4364-9c90-f48add0fa411
+    type: content
+  - name: Hobbies and Pursuits
+    id: a19f7c6d-a528-4c2f-9366-578e43b05784
     type: content
   - name: The Eye Within The Eye
     id: 6e63d16a-385a-435d-9017-383087d12857
