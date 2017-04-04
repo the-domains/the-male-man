@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There is an image of what Americans see as manhood that isn’t quite uniquely
   American, but it’s close.
-dateModified: '2017-04-04T01:25:16.965Z'
-datePublished: '2017-04-04T01:25:20.415Z'
+dateModified: '2017-04-04T01:31:31.024Z'
+datePublished: '2017-04-04T01:31:33.597Z'
 title: What is a Man?
 author: []
 publisher: {}
@@ -24,9 +24,9 @@ There is an image of what Americans see as manhood that isn't **quite** uniquely
 In a world where we are constantly being pitted, one group of people against another, we are sometimes expected to apologize for who we are. This website will never subscribe to the homogenized view of what people are supposed to be. BUT...There are qualities that identify us and they shouldn't be scoffed at.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cda046e5-8625-475e-a4c9-6a82b5ba424e.jpg)
 
-Here, we celebrate what people are. And in this case, the typical American male is not a creature to be sneered at, but respected.
+Here, we celebrate what people are. And in this case we celebrate the strong, American male role model.
 
-The man we celebrate here teaches his kids early the value of a dollar, respect for property, reading for enjoyment and love of competition. He exposes them to his passions and interest. Of course, he hopes they'll adopt them. But what is important is that they develop their own.
+The man we celebrate teaches his kids early the value of a dollar, respect for property, reading for enjoyment and love of competition. He exposes them to his passions and interest. Of course, he hopes they'll adopt them. But what is important is that they develop their own.
 
 He exudes strength in whatever capacity he possesses it; through whatever talents and abilities he's developed. He takes quiet pleasure in a job well-done.
 
@@ -36,17 +36,17 @@ He isn't arrogant. He loves easily. He beams with pride at his kids. His son mak
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec9e9a1-246f-48e3-b12a-a23b001c8879.jpg)
 
 If he is smart, a part of what motivates him to fix a light switch, replace a pipe, paint a wall, or head out to work everyday, is his desire to show off for the woman he loves.
+
+This is the man our site is dedicated to.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dcb3c7c-752a-4a15-bf93-b729bc7b8a2f.jpg)
 
 Photo credit: [http://kathleenroche.wixsite.com/photo][0]
-
-This is the man our site is dedicated to.
 
 [But Not every guy is married with kids!][1]
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The pictures in this article gave me a thought. This website will use advertising to keep the lights on. And we will make the ads content appropriate. We won't put an ad for an ipad in a post about chain saws.
+The pictures in this article gave me a thought. This website will use advertising to keep the lights on. And we will make the ads content appropriate. We won't put an ad for an iPad in a post about chain saws.
 
 Anyway, the thought. Tools kits for kids. One of the most important things I think I missed as a kid was familiarity with proper tools and their uses, and mechanical experience. I learned much of it in the Navy and I am a self-taught furniture maker. But I'd have been much further ahead of the game as a young man if someone had mentored me in _any_ of the trades.
 
