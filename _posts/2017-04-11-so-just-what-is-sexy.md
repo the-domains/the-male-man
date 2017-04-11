@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   I have plans for a series of posts here. I want to verify or disprove a
-  theory. Please take out poll and I’ll let you know when my series starts.
-dateModified: '2017-04-11T16:56:50.635Z'
-datePublished: '2017-04-11T16:56:51.624Z'
+  theory. Please take our poll and I’ll let you know when my series starts.
+dateModified: '2017-04-11T17:04:40.361Z'
+datePublished: '2017-04-11T17:04:40.973Z'
 title: So just what is sexy?
 author: []
 publisher: {}
@@ -19,6 +19,8 @@ _type: MediaObject
 ---
 # So just what is sexy?
 
-I have plans for a series of posts here. I want to verify or disprove a theory. Please take out poll and I'll let you know when my series starts.
+I have plans for a series of posts here. I want to verify or disprove a theory. Please take our poll and I'll let you know when my series starts.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS10_JTy7WS8_PT89J1UvOz9VPyy_KLdZP0U_VN3Rz9CwI9AlOTresKCh1j8yzzHNPjy-prHCKz8gpTsrIjc92MrOMSE2yjPLLSDdOdHfyCDLN0HXUL8tMLQcZY19aXGBbnBafk5mXDQCgyCek" height="244" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff8fc0f6-5c5d-4a59-a5db-32e2e6b6125b.jpg)
