@@ -1,19 +1,19 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I have plans for a series of posts here. I want to verify or disprove a
   theory. Please take our poll and I’ll let you know when my series starts.
-dateModified: '2017-04-11T18:51:56.987Z'
-datePublished: '2017-04-11T18:51:57.612Z'
+dateModified: '2017-04-11T20:51:41.612Z'
+datePublished: '2017-04-11T20:51:42.598Z'
 title: So Just What is Sexy?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-11-so-just-what-is-sexy.md
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS10_JTy7WS8_PT89J1UvOz9VPyy_KLdZP0U_VN3Rz9CwI9AlOTresKCh1j8yzzHNPjy-prHCKz8gpTsrIjc92MrOMSE2yjPLLSDdOdHfyCDLN0HXUL8tMLQcZY19aXGBbnBafk5mXDQCgyCek
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-11T16:49:08.345Z'
+url: so-just-what-is-sexy/index.html
 _type: MediaObject
 
 ---
