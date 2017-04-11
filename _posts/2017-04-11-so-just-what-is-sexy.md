@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   I have plans for a series of posts here. I want to verify or disprove a
   theory. Please take our poll and I’ll let you know when my series starts.
-dateModified: '2017-04-11T17:04:40.361Z'
-datePublished: '2017-04-11T17:04:40.973Z'
-title: So just what is sexy?
+dateModified: '2017-04-11T18:51:56.987Z'
+datePublished: '2017-04-11T18:51:57.612Z'
+title: So Just What is Sexy?
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ datePublishedOriginal: '2017-04-11T16:49:08.345Z'
 _type: MediaObject
 
 ---
-# So just what is sexy?
+# So Just What is Sexy?
 
 I have plans for a series of posts here. I want to verify or disprove a theory. Please take our poll and I'll let you know when my series starts.
 
