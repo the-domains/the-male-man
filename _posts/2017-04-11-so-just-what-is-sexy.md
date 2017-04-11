@@ -1,26 +1,24 @@
 ---
 inFeed: true
 description: >-
-  I have plans for a series of posts here.  I want to verify or disprove a
-  theory.  Please take out poll and I’ll let you know when my series starts. 
-dateModified: '2017-04-11T16:53:56.919Z'
-datePublished: '2017-04-11T16:53:57.542Z'
+  I have plans for a series of posts here. I want to verify or disprove a
+  theory. Please take out poll and I’ll let you know when my series starts.
+dateModified: '2017-04-11T16:56:50.635Z'
+datePublished: '2017-04-11T16:56:51.624Z'
 title: So just what is sexy?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-11-so-just-what-is-sexy.md
-hasPage: true
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS10_JTy7WS8_PT89J1UvOz9VPyy_KLdZP0U_VN3Rz9CwI9AlOTresKCh1j8yzzHNPjy-prHCKz8gpTsrIjc92MrOMSE2yjPLLSDdOdHfyCDLN0HXUL8tMLQcZY19aXGBbnBafk5mXDQCgyCek
 starred: false
 datePublishedOriginal: '2017-04-11T16:49:08.345Z'
-url: so-just-what-is-sexy/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # So just what is sexy?
 
-I have plans for a series of posts here. I want to verify or disprove a theory. Please take out poll and I'll let you know when my series starts. 
+I have plans for a series of posts here. I want to verify or disprove a theory. Please take out poll and I'll let you know when my series starts.
 
-[Click here][0]
-
-[0]: https://docs.google.com/forms/d/e/1FAIpQLScg9xpuGYn9nGg_tyxB_hlsbhm_kB69Xeb9ZNhg3aGBHR5h-A/viewform?usp=pp_url&entry.1254403983=It's+a+good+trait+in+a+man.
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS10_JTy7WS8_PT89J1UvOz9VPyy_KLdZP0U_VN3Rz9CwI9AlOTresKCh1j8yzzHNPjy-prHCKz8gpTsrIjc92MrOMSE2yjPLLSDdOdHfyCDLN0HXUL8tMLQcZY19aXGBbnBafk5mXDQCgyCek" height="244" style=""></iframe>
