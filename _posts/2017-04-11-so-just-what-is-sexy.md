@@ -3,16 +3,18 @@ inFeed: true
 description: >-
   I have plans for a series of posts here.  I want to verify or disprove a
   theory.  Please take out poll and I’ll let you know when my series starts. 
-dateModified: '2017-04-11T16:49:07.786Z'
-datePublished: '2017-04-11T16:49:08.345Z'
+dateModified: '2017-04-11T16:53:56.919Z'
+datePublished: '2017-04-11T16:53:57.542Z'
 title: So just what is sexy?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-11-so-just-what-is-sexy.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-11T16:49:08.345Z'
-sourcePath: _posts/2017-04-11-so-just-what-is-sexy.md
-_type: Blurb
+url: so-just-what-is-sexy/index.html
+_type: Article
 
 ---
 # So just what is sexy?
