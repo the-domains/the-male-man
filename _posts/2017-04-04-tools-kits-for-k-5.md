@@ -4,9 +4,9 @@ description: >-
   So your child isn’t a toddler anymore. If he enjoyed his first toy tool kit,
   you may consider upping the game a bit. I looked at what is on the market and
   these items jumped out at me.
-dateModified: '2017-04-04T03:26:54.957Z'
-datePublished: '2017-04-04T03:26:56.888Z'
-title: Tool Kits for K thru 5
+dateModified: '2017-04-11T17:58:08.687Z'
+datePublished: '2017-04-11T17:58:09.729Z'
+title: Tool Kits (ages 7-11)
 author: []
 publisher: {}
 via: {}
@@ -18,9 +18,7 @@ datePublishedOriginal: '2017-04-04T02:55:08.544Z'
 _type: MediaObject
 
 ---
-# Tool Kits for K thru 5
-
-## CARPENTRY/WOODWORKING
+# Tool Kits (ages 7-11)
 
 So your child isn't a toddler anymore. If he enjoyed his first toy tool kit, you may consider upping the game a bit. I looked at what is on the market and these items jumped out at me.
 
