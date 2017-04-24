@@ -49,6 +49,9 @@ navigation:
   - name: 'So, just what is sexy?'
     id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
     type: content
+  - name: Jeff Army
+    url: 'https://jeff.itsamans.world'
+    type: external
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
