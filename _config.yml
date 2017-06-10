@@ -58,6 +58,9 @@ navigation:
   - name: CIGARS SERIES by Dr. Jim Sass
     id: f4a55617-2318-4dad-8d38-85f2cfb512ba
     type: content
+  - name: CIGAR SERIES by Jim Sass
+    id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
