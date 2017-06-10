@@ -1,4 +1,5 @@
-typography_spectrum: 0.3198166307993233
+layout_spectrum: 0.6993369921531049
+typography_spectrum: 0.9173252378335905
 color:
   brandColors:
     - '#141218'
@@ -6,12 +7,11 @@ color:
     - '#77797B'
     - '#E19A26'
     - '#FE0029'
-  brandStrength: 0.3580810446292162
-  lightness: 0.23438590043224394
-  saturation: 0.8797711771912873
-  rhythmicContrast: 0.15065512317232788
+  brandStrength: 0.5135463618183749
+  lightness: 0.9496658803960585
+  saturation: 0.9067726617107297
+  rhythmicContrast: 0.4136819380302314
 github: true
-layout_spectrum: 0.7361833588220179
 author:
   name: MJ
   email: host@itsamans.world
@@ -49,9 +49,12 @@ navigation:
   - name: 'So, just what is sexy?'
     id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
     type: content
-  - name: Jeff Army
-    url: 'https://jeff.itsamans.world'
-    type: external
+  - name: Delay or Avoid Dementia
+    id: c374d543-25df-42fc-b85d-f7dcb4c4d0a2
+    type: content
+  - name: Tools for Tots
+    id: 64e8435a-73f7-4b57-ba80-020d09140873
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
