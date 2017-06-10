@@ -5,16 +5,16 @@ description: >-
   customer base was aging and contracting, sales had been in a steady 30-year
   decline and the men who made cigars and grew tobacco no longer encouraged
   their children to follow in their footsteps.
-dateModified: '2017-06-10T22:30:56.696Z'
-datePublished: '2017-06-10T22:32:27.585Z'
+dateModified: '2017-06-10T22:33:11.153Z'
+datePublished: '2017-06-10T22:33:11.814Z'
 title: 'Cigars:  A Brief History (Part 1)'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-1.md
 starred: false
 datePublishedOriginal: '2017-06-10T22:32:27.585Z'
-sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-1.md
 url: cigars-a-brief-history-part-1/index.html
 _type: Article
 
