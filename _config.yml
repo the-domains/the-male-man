@@ -1,4 +1,3 @@
-layout_spectrum: 0.6993369921531049
 typography_spectrum: 0.9173252378335905
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.9067726617107297
   rhythmicContrast: 0.4136819380302314
 github: true
+layout_spectrum: 0.6993369921531049
 author:
   name: MJ
   email: host@itsamans.world
@@ -54,6 +54,9 @@ navigation:
     type: content
   - name: Tools for Tots
     id: 64e8435a-73f7-4b57-ba80-020d09140873
+    type: content
+  - name: CIGARS SERIES by Dr. Jim Sass
+    id: f4a55617-2318-4dad-8d38-85f2cfb512ba
     type: content
 title: It's a MAN's World
 content:
