@@ -15,16 +15,16 @@ description: >-
   lot
 
   of trial and error.”
-dateModified: '2017-06-10T23:07:56.218Z'
-datePublished: '2017-06-10T23:07:56.807Z'
+dateModified: '2017-06-10T23:11:28.876Z'
+datePublished: '2017-06-10T23:11:29.682Z'
 title: 'Cigars: A Brief History (Part 2)'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-2.md
 starred: false
 datePublishedOriginal: '2017-06-10T23:07:56.807Z'
-sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-2.md
 url: cigars-a-brief-history-part-2/index.html
 _type: Article
 
