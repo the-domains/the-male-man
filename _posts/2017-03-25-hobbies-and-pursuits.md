@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The Eye Within The Eye
-dateModified: '2017-04-03T19:31:23.508Z'
-datePublished: '2017-04-03T19:31:24.201Z'
+dateModified: '2017-06-10T22:41:56.700Z'
+datePublished: '2017-06-10T22:41:57.195Z'
 title: Hobbies and Pursuits
 author: []
 publisher: {}
