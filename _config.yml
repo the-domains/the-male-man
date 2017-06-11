@@ -1,4 +1,3 @@
-layout_spectrum: 0.9510136292606481
 typography_spectrum: 1
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.8919612427971483
   rhythmicContrast: 0.5289570440162933
 github: true
+layout_spectrum: 0.9510136292606481
 author:
   name: MJ
   email: host@itsamans.world
@@ -60,6 +60,9 @@ navigation:
     type: content
   - name: CIGARS (Part 2) by Dr. Jim Sass
     id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
+    type: content
+  - name: 'Cigars:  A Breif History (Part 3)'
+    id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
     type: content
 title: It's a MAN's World
 content:
