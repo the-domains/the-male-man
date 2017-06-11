@@ -5,8 +5,8 @@ description: >-
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-11T03:12:37.912Z'
-datePublished: '2017-06-11T03:12:38.605Z'
+dateModified: '2017-06-11T03:21:46.530Z'
+datePublished: '2017-06-11T03:21:48.267Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
@@ -57,4 +57,22 @@ The nationalization of Cuba's cigar industry led to the exile of many of its fam
 
 ---
 
-_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars. _
+_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c659278f-6b07-4050-a243-4c73537ba785.jpg)
+
+**Dr. Jim Sass**  
+Business Strategist / Mentor / Associate Professor (Business IT)  
+_PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
+**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+[http://mypmspot.blog][2]  
+_"The Doctor Unplugged"_  
+[http://thedoctorisin.blog][3]  
+**Find my LinkedIn profile at**:  
+[www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]
+
+[0]: http://www.wizeconsulting.biz/
+[1]: mailto:jsass.wize@gmail.com
+[2]: http://mypmspot.blog/
+[3]: http://thedoctorisin.blog/
+[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396/
