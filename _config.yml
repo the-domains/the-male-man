@@ -52,6 +52,9 @@ navigation:
   - name: Geeks and Gadgets
     url: 'http://geeks.itsamans.world'
     type: external
+  - name: CIGARS (Part 3) by Dr. Jim Sass
+    id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
+    type: content
   - name: 'So, just what is sexy?'
     id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
     type: content
@@ -60,9 +63,6 @@ navigation:
     type: content
   - name: Tools for Tots
     id: 64e8435a-73f7-4b57-ba80-020d09140873
-    type: content
-  - name: CIGARS (Part 3) by Dr. Jim Sass
-    id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
     type: content
 title: It's a MAN's World
 content:
