@@ -5,8 +5,8 @@ description: >-
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-11T03:21:46.530Z'
-datePublished: '2017-06-11T03:21:48.267Z'
+dateModified: '2017-06-11T03:41:19.375Z'
+datePublished: '2017-06-11T03:41:19.983Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
@@ -41,6 +41,12 @@ We've all heard the tale of Columbus witnessing Cuba's indigenous population twi
 
 The population of Havana boomed after the king of Spain declared free trade in 1818 in the country, which remained a Spanish colony until 1898\. It was during that period that many of Cuba's famous cigar brands were created. Punch was formed in 1840 by a German, the famous Partagás factory was built in 1845 by Spaniard Jaime Partagás, El Rey del Mundo and Sancho Panza were created by the German Emilio Ohmstedt in 1848 and Hoyo de Monterrey was founded in 1865 by José Gener, a young immigrant from Spain.
 
+---
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKKCkpsNLXj_QPDfJ00SsvyizJzEs3NzfXy8gv0EvOyUzOTkrMy9bLSy1RsrPJzE1XKC5KhuuCKtfNyk8qBinRz8xNTE8t1gdqyUstKtY3NTCosDDQTdTLKkhXUtC3s9FPtAMA_xMo6g" height="244" style=""></iframe>
+
+---
+
 One hundred years ago, cigar smoking was quite common, and cigar factories seemed to be everywhere. "The cigar profession commanded a fair amount of prestige at the turn of the century. Cigars were arguably the most popular tobacco product in America," wrote Stanford Newman. "Almost every city in the East and Midwest had at least one small cigar factory." These factories were not necessarily large operations, and many were simply a person in a room rolling cigars.
 
 Newman's father, J. C., began rolling cigars in the barn behind his family's Cleveland home in 1895, creating J. C. Newman Cigar Co., which still exists to this day. At the time, that facility was one of 300 cigar factories in Cleveland, and one of 42,000 in the entire United States.
@@ -58,7 +64,7 @@ The nationalization of Cuba's cigar industry led to the exile of many of its fam
 ---
 
 _Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c659278f-6b07-4050-a243-4c73537ba785.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a332dbf43b508adc43b69137dd7330c/croprotate.jpg?cropheight=3000&cropwidth=2253&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc659278f-6b07-4050-a243-4c73537ba785.jpg&x=0&y=0)
 
 **Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
@@ -70,6 +76,8 @@ _"The Doctor Unplugged"_
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]
+
+Disclaimer: itsamans.world is affiliated with vendors who have supplied advertising for this page and is compansated for any purchases made through these links.
 
 [0]: http://www.wizeconsulting.biz/
 [1]: mailto:jsass.wize@gmail.com
