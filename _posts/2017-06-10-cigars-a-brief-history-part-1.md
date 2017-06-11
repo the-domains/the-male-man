@@ -5,8 +5,8 @@ description: >-
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-11T03:41:19.375Z'
-datePublished: '2017-06-11T03:41:19.983Z'
+dateModified: '2017-06-11T03:41:29.842Z'
+datePublished: '2017-06-11T03:41:30.779Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
@@ -64,7 +64,7 @@ The nationalization of Cuba's cigar industry led to the exile of many of its fam
 ---
 
 _Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a332dbf43b508adc43b69137dd7330c/croprotate.jpg?cropheight=3000&cropwidth=2253&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc659278f-6b07-4050-a243-4c73537ba785.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6879ee03ee83b99284e898cbd16652c50cc6ec37.jpg)
 
 **Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
