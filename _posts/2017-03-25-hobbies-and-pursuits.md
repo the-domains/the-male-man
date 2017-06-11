@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The Eye Within The Eye
-dateModified: '2017-06-11T01:23:45.256Z'
-datePublished: '2017-06-11T01:23:45.826Z'
+dateModified: '2017-06-11T01:24:58.135Z'
+datePublished: '2017-06-11T01:24:58.583Z'
 title: 'Passions, Hobbies and Pursuits'
 author: []
 publisher: {}
@@ -17,9 +17,11 @@ _type: Article
 ---
 # Passions, Hobbies and Pursuits
 
-### Photography
+### **Photography**
 
 [The Eye Within The Eye][0]
+
+### **Cigar Aficionado**
 
 [Cigars][1]
 
