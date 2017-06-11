@@ -1,4 +1,5 @@
-typography_spectrum: 0.9173252378335905
+layout_spectrum: 0.9510136292606481
+typography_spectrum: 1
 color:
   brandColors:
     - '#141218'
@@ -6,12 +7,11 @@ color:
     - '#77797B'
     - '#E19A26'
     - '#FE0029'
-  brandStrength: 0.5135463618183749
-  lightness: 0.9496658803960585
-  saturation: 0.9067726617107297
-  rhythmicContrast: 0.4136819380302314
+  brandStrength: 0.3794979595056375
+  lightness: 0.08191206034355898
+  saturation: 0.8919612427971483
+  rhythmicContrast: 0.5289570440162933
 github: true
-layout_spectrum: 0.6993369921531049
 author:
   name: MJ
   email: host@itsamans.world
