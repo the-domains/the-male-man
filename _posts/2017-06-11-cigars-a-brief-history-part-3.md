@@ -18,8 +18,8 @@ description: >-
   days. Today, a ring gauge of 60 characterizes one of the most popular sizes in
 
   American smoke shops.
-dateModified: '2017-06-11T02:46:07.065Z'
-datePublished: '2017-06-11T02:46:07.512Z'
+dateModified: '2017-06-11T02:47:59.780Z'
+datePublished: '2017-06-11T02:48:00.389Z'
 title: 'Cigars:  A Brief History (Part 3)'
 author: []
 publisher: {}
