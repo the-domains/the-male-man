@@ -5,8 +5,8 @@ description: >-
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-11T03:57:42.802Z'
-datePublished: '2017-06-11T03:57:43.286Z'
+dateModified: '2017-06-11T03:59:12.855Z'
+datePublished: '2017-06-11T03:59:13.321Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
@@ -41,7 +41,7 @@ We've all heard the tale of Columbus witnessing Cuba's indigenous population twi
 
 The population of Havana boomed after the king of Spain declared free trade in 1818 in the country, which remained a Spanish colony until 1898\. It was during that period that many of Cuba's famous cigar brands were created. Punch was formed in 1840 by a German, the famous Partagás factory was built in 1845 by Spaniard Jaime Partagás, El Rey del Mundo and Sancho Panza were created by the German Emilio Ohmstedt in 1848 and Hoyo de Monterrey was founded in 1865 by José Gener, a young immigrant from Spain.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9y0ELgjAYgOF7v-LDc-6zQxhhQsIKLzNK8jx1zWluYxvUz88gOry35804DE48DtEQgt0jeiuN6ZXwG_JyKigt0zQlg7Gke6puarmeiBYhyjM1S_Cu-58_Ho-m9V-CauZSeFwWLZzHbZK8d0nMyWhlBJhnyJdal69O1RUKeqvhXtKmZOc1VBfKoGTAaAP1sfgAVZI1Nw" height="222" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9y8EKgjAYAOC7T_HjOTc7hBFrkLDCy4ySPE9dc5rb2Ab1-BVE9-8jAkYv7_t0jNHtMA5OWTtoGdbo6XXURhVFgUbrUP_Q_dwJMyMjY0qJXhQE3__nj2eT7cKXYL0IJQP-FCN9wJs8f23zTKDJqRQwJVjQJCGOHusLlOzawK1ibcVPK6jPjEPFgbMWmkP5BhVSNK4" height="222" style=""></iframe>
 
 One hundred years ago, cigar smoking was quite common, and cigar factories seemed to be everywhere. "The cigar profession commanded a fair amount of prestige at the turn of the century. Cigars were arguably the most popular tobacco product in America," wrote Stanford Newman. "Almost every city in the East and Midwest had at least one small cigar factory." These factories were not necessarily large operations, and many were simply a person in a room rolling cigars.
 
