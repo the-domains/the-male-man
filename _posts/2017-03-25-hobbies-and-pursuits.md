@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: The Eye Within The Eye
-dateModified: '2017-06-10T22:41:56.700Z'
-datePublished: '2017-06-10T22:41:57.195Z'
-title: Hobbies and Pursuits
+dateModified: '2017-06-11T01:23:45.256Z'
+datePublished: '2017-06-11T01:23:45.826Z'
+title: 'Passions, Hobbies and Pursuits'
 author: []
 publisher: {}
 via: {}
@@ -15,10 +15,13 @@ url: hobbies-and-pursuits/index.html
 _type: Article
 
 ---
-# Hobbies and Pursuits
+# Passions, Hobbies and Pursuits
 
-# Photography
+### Photography
 
 [The Eye Within The Eye][0]
 
+[Cigars][1]
+
 [0]: http://itsamans.world/the-eye-within-the-eye
+[1]: http://itsamans.world/the-cigars-series
