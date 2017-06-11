@@ -18,16 +18,18 @@ description: >-
   days. Today, a ring gauge of 60 characterizes one of the most popular sizes in
 
   American smoke shops.
-dateModified: '2017-06-11T02:37:57.534Z'
-datePublished: '2017-06-11T02:37:58.101Z'
+dateModified: '2017-06-11T02:46:07.065Z'
+datePublished: '2017-06-11T02:46:07.512Z'
 title: 'Cigars:  A Brief History (Part 3)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-11-cigars-a-brief-history-part-3.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-11T02:37:58.101Z'
-sourcePath: _posts/2017-06-11-cigars-a-brief-history-part-3.md
-_type: Blurb
+url: cigars-a-brief-history-part-3/index.html
+_type: Article
 
 ---
 # **Cigars: A Brief History (Part 3)**
@@ -65,7 +67,13 @@ impossible to find. For six weeks of the summer of 1996, General Cigar didn't
 ship a single Macanudo cigar, the best-selling premium cigar in the United
 States at the time. "We were using tobacco so rapidly we got caught. We didn't
 have enough in the aging blend," said then-company president Austin T. McNamara.
-  
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a21633d2-a45b-4b6f-8400-aafa8f388893.jpg)
+
+---
+
 The influx of boom-time smokes often meant substandard product. The April 1997
 Cigar Insider had ratings for 50 cigars and, for the first time since
 publication began in January 1996, not one scored 90 points or more. Low
