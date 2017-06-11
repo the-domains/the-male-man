@@ -46,12 +46,12 @@ navigation:
   - name: CIGARS (Part 1) by Dr. Jim Sass
     id: f4a55617-2318-4dad-8d38-85f2cfb512ba
     type: content
-  - name: Geeks and Gadgets
-    url: 'http://geeks.itsamans.world'
-    type: external
   - name: CIGARS (Part 2) by Dr. Jim Sass
     id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
     type: content
+  - name: Geeks and Gadgets
+    url: 'http://geeks.itsamans.world'
+    type: external
   - name: 'So, just what is sexy?'
     id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
     type: content
