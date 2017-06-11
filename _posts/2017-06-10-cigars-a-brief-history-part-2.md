@@ -8,8 +8,8 @@ description: >-
   tobaccos here [in the United States], we used some Java, some air cured, we
   made blends, blends, blends. People went to different areas to try and grow
   tobacco. There was a lot of trial and error.”
-dateModified: '2017-06-10T23:14:20.047Z'
-datePublished: '2017-06-10T23:14:20.555Z'
+dateModified: '2017-06-11T03:21:47.477Z'
+datePublished: '2017-06-11T03:21:51.278Z'
 title: 'Cigars: A Brief History (Part 2)'
 author: []
 publisher: {}
@@ -63,3 +63,25 @@ Cigar lovers were not only buying more cigars, but they had radically changed th
 The most popular cigars of the early 1990s were often made of mild, Dominican filler, wrapped with mild leaves of Connecticut-shade. Cigar makers, emboldened by the increased sales, made more flavorful blends. The late 1995 release of the Fuente Fuente OpusX helped spark a trend toward more powerful, spicy smokes. Cuban-seed tobaccos and Ecuadoran Sumatra wrappers became increasingly popular, and cigar smokers learned the term "ligero," describing the strongest variety of filler tobacco. The 1994 release of the ultrarich Padrón 1964 Anniversary Series, made entirely with Cuban-seed tobaccos, ignited a trend toward box-pressed cigars, which had been almost entirely absent from the U.S. market.
 
 ### In Part 3: The Boom Rolls On!
+
+---
+
+_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars. _
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fd1f628-bc2a-4438-8b6f-97f9f127ba0f.jpg)
+
+**Dr. Jim Sass**  
+Business Strategist / Mentor / Associate Professor (Business IT)  
+_PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
+**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+[http://mypmspot.blog][2]  
+_"The Doctor Unplugged"_  
+[http://thedoctorisin.blog][3]  
+**Find my LinkedIn profile at**:  
+[www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]
+
+[0]: http://www.wizeconsulting.biz/
+[1]: mailto:jsass.wize@gmail.com
+[2]: http://mypmspot.blog/
+[3]: http://thedoctorisin.blog/
+[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396/
