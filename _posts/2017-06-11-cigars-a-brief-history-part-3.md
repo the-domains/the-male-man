@@ -10,8 +10,8 @@ description: >-
   cigars, made news in 1995 when it was launched—as 54s were considered quite
   thick in those days. Today, a ring gauge of 60 characterizes one of the most
   popular sizes in American smoke shops.
-dateModified: '2017-06-11T03:19:11.126Z'
-datePublished: '2017-06-11T03:19:11.969Z'
+dateModified: '2017-06-11T03:24:46.900Z'
+datePublished: '2017-06-11T03:24:47.475Z'
 title: 'Cigars: A Brief History (Part 3)'
 author: []
 publisher: {}
@@ -61,39 +61,51 @@ Altadis rival Swedish Match AB, which bought the La Gloria Cubana brand in 1997,
 
 ---
 
-_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars. _
+_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
 
 **Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+  
+**Wize Consulting, LLC  
+**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**  
+Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
+  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]**Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+  
+**Wize Consulting, LLC  
+**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**  
+Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
+  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]**Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+  
+**Wize Consulting, LLC  
+**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**  
+Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
+  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]
 
-[0]: http://www.wizeconsulting.biz/
+[0]: http://www.wizeconsulting.biz
 [1]: mailto:jsass.wize@gmail.com
 [2]: http://mypmspot.blog/
 [3]: http://thedoctorisin.blog/
-[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396/
+[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396
