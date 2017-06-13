@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Cigars: A Brief History (Part 1)'
-dateModified: '2017-06-13T21:59:56.954Z'
-datePublished: '2017-06-13T21:59:57.484Z'
+dateModified: '2017-06-13T22:08:57.867Z'
+datePublished: '2017-06-13T22:08:58.476Z'
 title: The Cigars Series
 author: []
 publisher: {}
