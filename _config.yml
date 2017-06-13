@@ -64,6 +64,9 @@ navigation:
   - name: Tools for Tots
     id: 64e8435a-73f7-4b57-ba80-020d09140873
     type: content
+  - name: 'Cigars:  A Brief History (Conclusion)'
+    id: e5a96f41-f083-4a67-a50e-24351bacc880
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
