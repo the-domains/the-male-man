@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   With the cigar market undergoing radical change, the industry was remade. In
   2000, General Cigar closed its Jamaica factory, ending some 30 years of
@@ -12,8 +12,8 @@ description: >-
   million last year, vaulting to second place among premium cigar producers. The
   shift is a sign of the changing tastes of connoisseurs, who are flocking to
   the fuller flavors of Nicaraguan tobacco.
-dateModified: '2017-06-13T21:29:25.389Z'
-datePublished: '2017-06-13T21:29:27.340Z'
+dateModified: '2017-06-13T21:38:03.102Z'
+datePublished: '2017-06-13T21:38:03.672Z'
 title: 'Cigars: A Brief History (Conclusion)'
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ sourcePath: _posts/2017-06-11-cigars-a-brief-history-conclusion.md
 starred: false
 datePublishedOriginal: '2017-06-11T03:22:40.016Z'
 url: cigars-a-brief-history-conclusion/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Cigars: A Brief History (Conclusion)
@@ -51,7 +51,7 @@ The cigar world has been completely, unforgettably transformed. Cigar makers wor
 "Thank God for the cigar boom," says Carlos Fuente Jr., one of the icons of the cigar business. "For the first time in history, tobacco farmers, tobacco dealers, people who own smoke shops were all able to make a decent living."
 
 _Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
-![Source:  Jim Sass](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/760fe3fe12d750a8d7b0954ca977fabf/croprotate.jpg?cropheight=3000&cropwidth=2253&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc304427b-6a6b-4afa-bf22-bcfafb1336b7.jpg&x=0&y=0)
+![Source:  Jim Sass](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63f2ec3344cb0744a3be82c8127213e29ce5e35e.jpg)
 
 ---
 
