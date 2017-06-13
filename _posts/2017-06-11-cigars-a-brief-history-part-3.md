@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   As cigar sales grew, so did the girth (measured in ring gauge) of the
   most-popular smokes. One retailer said that in 1990, almost 80 percent of his
@@ -10,8 +10,8 @@ description: >-
   cigars, made news in 1995 when it was launched—as 54s were considered quite
   thick in those days. Today, a ring gauge of 60 characterizes one of the most
   popular sizes in American smoke shops.
-dateModified: '2017-06-11T03:24:46.900Z'
-datePublished: '2017-06-11T03:24:47.475Z'
+dateModified: '2017-06-13T21:37:42.581Z'
+datePublished: '2017-06-13T21:37:44.472Z'
 title: 'Cigars: A Brief History (Part 3)'
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-11T02:37:58.101Z'
 url: cigars-a-brief-history-part-3/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Cigars: A Brief History (Part 3)**
@@ -66,46 +66,34 @@ _Jim Sass is a highly regarded mentor and business consultant. You can find some
 **Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-  
-**Wize Consulting, LLC  
-**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**  
-Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
-  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]**Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-  
-**Wize Consulting, LLC  
-**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**  
-Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
-  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]**Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
 _PMQ(r), PM-LPC(tm),SSBBP(r), CMS(r)_  
-  
-**Wize Consulting, LLC  
-**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
-**  
-Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
+**Wize Consulting, LLC**[http://www.wizeconsulting.biz][0]**[jsass.wize@gmail.com][1]**  
+**Author of the Blogs**:_"PM in the AM: Your Daily Dose of Project Management"_  
 [http://mypmspot.blog][2]  
-  
 _"The Doctor Unplugged"_  
 [http://thedoctorisin.blog][3]  
 **Find my LinkedIn profile at**:  
 [www.linkedin.com/in/dr-jim-sass-ssbbp(r)-pmq(r)-0690396][4]
 
-[0]: http://www.wizeconsulting.biz
+[0]: http://www.wizeconsulting.biz/
 [1]: mailto:jsass.wize@gmail.com
 [2]: http://mypmspot.blog/
 [3]: http://thedoctorisin.blog/
-[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396
+[4]: http://www.linkedin.com%2Fin%2Fdr-jim-sass-ssbbp%C2%AE-pmq%C2%AE-0690396/
