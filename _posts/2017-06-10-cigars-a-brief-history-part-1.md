@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The year was 1992. The American cigar industry was in poor shape. The customer
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-11T03:59:12.855Z'
-datePublished: '2017-06-11T03:59:13.321Z'
+dateModified: '2017-06-13T21:36:27.836Z'
+datePublished: '2017-06-13T21:36:28.569Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-1.md
 starred: false
 datePublishedOriginal: '2017-06-10T22:32:27.585Z'
 url: cigars-a-brief-history-part-1/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Cigars: A Brief History (Part 1)
