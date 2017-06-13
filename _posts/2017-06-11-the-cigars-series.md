@@ -1,19 +1,18 @@
 ---
 inFeed: true
 description: 'Cigars: A Brief History (Part 1)'
-dateModified: '2017-06-13T21:31:48.777Z'
-datePublished: '2017-06-13T21:31:49.390Z'
+dateModified: '2017-06-13T21:32:45.688Z'
+datePublished: '2017-06-13T21:32:46.043Z'
 title: The Cigars Series
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-06-11-the-cigars-series.md
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXzywpTsxNzCvWK88vyknRT85MTywq1k3UTSrKTE3TzcgsLskvqtQtSCwq0TUEAPG_Evs
 starred: false
 datePublishedOriginal: '2017-06-11T01:02:02.158Z'
-_type: MediaObject
+url: the-cigars-series/index.html
+_type: Article
 
 ---
 # The Cigars Series
