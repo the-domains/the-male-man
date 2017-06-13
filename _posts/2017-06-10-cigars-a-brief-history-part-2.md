@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   “When we got the embargo, we bought tobacco left and right by telephone,” said
   Alfons Mayer in 2002. Mayer, who died in 2006, spent years as the main tobacco
@@ -8,8 +8,8 @@ description: >-
   tobaccos here [in the United States], we used some Java, some air cured, we
   made blends, blends, blends. People went to different areas to try and grow
   tobacco. There was a lot of trial and error.”
-dateModified: '2017-06-11T03:21:47.477Z'
-datePublished: '2017-06-11T03:21:51.278Z'
+dateModified: '2017-06-13T21:35:59.997Z'
+datePublished: '2017-06-13T21:36:00.544Z'
 title: 'Cigars: A Brief History (Part 2)'
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ sourcePath: _posts/2017-06-10-cigars-a-brief-history-part-2.md
 starred: false
 datePublishedOriginal: '2017-06-10T23:07:56.807Z'
 url: cigars-a-brief-history-part-2/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Cigars: A Brief History (Part 2)
@@ -66,8 +66,8 @@ The most popular cigars of the early 1990s were often made of mild, Dominican fi
 
 ---
 
-_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars. _
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fd1f628-bc2a-4438-8b6f-97f9f127ba0f.jpg)
+_Jim Sass is a highly regarded mentor and business consultant. You can find some of his work below. Like many successful people, Sass has a few passions. Among those are Harleys, good scotch and fine cigars._
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/044d479569695fe4891fc3b6fa0eb084/croprotate.jpg?cropheight=3000&cropwidth=2253&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4fd1f628-bc2a-4438-8b6f-97f9f127ba0f.jpg&x=0&y=0)
 
 **Dr. Jim Sass**  
 Business Strategist / Mentor / Associate Professor (Business IT)  
