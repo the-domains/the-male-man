@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-06-13T21:06:03.452Z'
-datePublished: '2017-06-13T21:06:04.232Z'
+description: 'Cigars: A Brief History (Part 1)'
+dateModified: '2017-06-13T21:31:48.777Z'
+datePublished: '2017-06-13T21:31:49.390Z'
 title: The Cigars Series
 author: []
 publisher: {}
@@ -18,6 +18,17 @@ _type: MediaObject
 ---
 # The Cigars Series
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXzywpTsxNzCvWK88vyknRT85MTywq1k3UTSrKTE3TzcgsLskvqtQtSCwq0TUEAPG_Evs" height="244" style=""></iframe>
+## There is more to the story of cigars than fancy names and damp boxes. A good Aficianado should be able to address some of the salient points of his pursuits. Pick up some interesting factoids Dr. Jim. Impress you cigar buddies. Perhaps teach a newbie the meaning of a fine cigar. 
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXzywpTsxNzCvWK88vyknRT85MTywq1k3UTSrKTE3TzcgsLskvqtQtSCwq0TUCAPHAEvw" height="244" style=""></iframe>
+[Cigars: A Brief History (Part 1)][0]
+
+[Cigars: A Brief History (Part 2)][1]
+
+[Cigars: A Brief History (Part 3)][2]
+
+[Cigars: A Brief History (Conclusion)][3]
+
+[0]: http://itsamans.world/cigars-a-brief-history-part-1
+[1]: http://itsamans.world/cigars-a-brief-history-part-2
+[2]: http://itsamans.world/cigars-a-brief-history-part-3
+[3]: http://itsamans.world/cigars-a-brief-history-conclusion
