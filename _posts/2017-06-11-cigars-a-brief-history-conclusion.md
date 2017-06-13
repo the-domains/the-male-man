@@ -12,16 +12,16 @@ description: >-
   million last year, vaulting to second place among premium cigar producers. The
   shift is a sign of the changing tastes of connoisseurs, who are flocking to
   the fuller flavors of Nicaraguan tobacco.
-dateModified: '2017-06-11T03:22:40.672Z'
-datePublished: '2017-06-11T03:22:41.335Z'
+dateModified: '2017-06-13T21:29:25.389Z'
+datePublished: '2017-06-13T21:29:27.340Z'
 title: 'Cigars: A Brief History (Conclusion)'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-11-cigars-a-brief-history-conclusion.md
 starred: false
 datePublishedOriginal: '2017-06-11T03:22:40.016Z'
-sourcePath: _posts/2017-06-11-cigars-a-brief-history-conclusion.md
 url: cigars-a-brief-history-conclusion/index.html
 _type: Article
 
