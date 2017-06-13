@@ -67,6 +67,9 @@ navigation:
   - name: 'Cigars:  A Brief History (Conclusion)'
     id: e5a96f41-f083-4a67-a50e-24351bacc880
     type: content
+  - name: The Cigar Series by Dr. Jim Sass
+    id: 314e87db-5d2e-425a-9d53-cee60ead2178
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
