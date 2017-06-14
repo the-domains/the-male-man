@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: …Or maybe I did and ignored reality.
-dateModified: '2017-06-14T21:00:26.081Z'
-datePublished: '2017-06-14T21:00:26.853Z'
+dateModified: '2017-06-14T21:03:25.033Z'
+datePublished: '2017-06-14T21:03:26.055Z'
 title: I never knew…
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXTy7KLMlMTsxJSs1LztBLzs_VL0gsKslLLSrWD430cNPPzE1MTy3WT84vAwrpJiXmgaWMDQwqjEwNdM30sgrSAf_VGjk
+sourcePath: _posts/2017-06-14-i-never-knew.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-14T21:00:26.853Z'
-sourcePath: _posts/2017-06-14-i-never-knew.md
-_type: MediaObject
+url: i-never-knew/index.html
+_type: Article
 
 ---
 # I never knew...
