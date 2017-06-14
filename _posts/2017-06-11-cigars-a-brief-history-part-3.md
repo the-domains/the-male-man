@@ -10,8 +10,8 @@ description: >-
   cigars, made news in 1995 when it was launched—as 54s were considered quite
   thick in those days. Today, a ring gauge of 60 characterizes one of the most
   popular sizes in American smoke shops.
-dateModified: '2017-06-13T21:37:42.581Z'
-datePublished: '2017-06-13T21:37:44.472Z'
+dateModified: '2017-06-14T02:05:04.041Z'
+datePublished: '2017-06-14T02:05:05.181Z'
 title: 'Cigars: A Brief History (Part 3)'
 author: []
 publisher: {}
