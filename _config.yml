@@ -67,6 +67,9 @@ navigation:
   - name: CIGARS (Part 3) by Dr. Jim Sass
     id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
     type: content
+  - name: Rebuilding YOU
+    id: e886f0a0-2f3e-4f03-9b31-9d9f81de5daa
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
