@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: …Or maybe I did and ignored reality.
-dateModified: '2017-06-14T21:06:38.727Z'
-datePublished: '2017-06-14T21:06:39.219Z'
+dateModified: '2017-06-14T21:29:44.872Z'
+datePublished: '2017-06-14T21:29:45.400Z'
 title: I never knew…
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-14T21:00:26.853Z'
 url: i-never-knew/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # I never knew...
@@ -25,8 +25,9 @@ Lifting weights is fine, I go to the gym 3 times a week. Aerobics are critical, 
 
 BUT- what I am finding is some of the simplest fixes that will improve my overall health, strength and appearance have nothing to do with how much I can lift, or how far I can walk or run. For example, just working my hip flexors will do more than keep my hips loose and comfortable...much more!
 
-If you care about your health, I have a new resource for you. And this can be your first step.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXTy7KLMlMTsxJSs1LztBLzs_VL0gsKslLLSrWD430cNPPzE1MTy3WT84vAwrpJiXmgaWMDQwqjEwNdM30sgrSAf_VGjk" height="244" style=""></iframe>
+If you care about your health, I have a new resource for you. [And this can be your first one amazing thing can be your first step!][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5af1e392-b223-4fd9-8ae6-511823145c39.jpg)
 
 Cool!
+
+[0]: http://spgoodies1.painfix.hop.clickbank.net/
