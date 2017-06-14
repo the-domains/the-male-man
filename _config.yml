@@ -37,6 +37,9 @@ navigation:
   - name: The Eye Within The Eye
     id: 6e63d16a-385a-435d-9017-383087d12857
     type: content
+  - name: The Cigar Series by Dr. Jim Sass
+    id: 314e87db-5d2e-425a-9d53-cee60ead2178
+    type: content
   - name: Business Opportunities and Advice
     url: 'http://business.itsamans.world'
     type: external
@@ -45,9 +48,6 @@ navigation:
     type: content
   - name: CIGARS (Part 1) by Dr. Jim Sass
     id: f4a55617-2318-4dad-8d38-85f2cfb512ba
-    type: content
-  - name: The Cigar Series by Dr. Jim Sass
-    id: 314e87db-5d2e-425a-9d53-cee60ead2178
     type: content
   - name: CIGARS (Part 2) by Dr. Jim Sass
     id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
