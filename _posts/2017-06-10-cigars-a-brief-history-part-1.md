@@ -5,8 +5,8 @@ description: >-
   base was aging and contracting, sales had been in a steady 30-year decline and
   the men who made cigars and grew tobacco no longer encouraged their children
   to follow in their footsteps.
-dateModified: '2017-06-14T02:16:20.638Z'
-datePublished: '2017-06-14T02:16:21.308Z'
+dateModified: '2017-06-14T21:14:20.983Z'
+datePublished: '2017-06-14T21:14:21.639Z'
 title: 'Cigars: A Brief History (Part 1)'
 author: []
 publisher: {}
