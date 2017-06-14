@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Rebuilding you: I Never Knew…'
-dateModified: '2017-06-14T21:08:21.908Z'
-datePublished: '2017-06-14T21:08:22.527Z'
+description: Stopping or Delaying Dementia
+dateModified: '2017-06-14T21:10:38.418Z'
+datePublished: '2017-06-14T21:10:39.013Z'
 title: To Your Health
 author: []
 publisher: {}
@@ -15,8 +15,9 @@ _type: Blurb
 ---
 # To Your Health
 
-## Staving Off Dementia
+[Stopping or Delaying Dementia][0]
 
-[Rebuilding you: I Never Knew...][0]
+[Rebuilding you: I Never Knew...][1]
 
-[0]: http://itsamans.world/i-never-knew
+[0]: http://itsamans.world/stop-or-delay-dementia
+[1]: http://itsamans.world/i-never-knew
