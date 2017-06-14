@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-06-14T21:06:38.727Z'
-datePublished: '2017-06-14T21:06:39.247Z'
+description: 'Rebuilding you: I Never Knew…'
+dateModified: '2017-06-14T21:08:21.908Z'
+datePublished: '2017-06-14T21:08:22.527Z'
 title: To Your Health
 author: []
 publisher: {}
@@ -16,3 +16,7 @@ _type: Blurb
 # To Your Health
 
 ## Staving Off Dementia
+
+[Rebuilding you: I Never Knew...][0]
+
+[0]: http://itsamans.world/i-never-knew
