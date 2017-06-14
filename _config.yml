@@ -52,6 +52,9 @@ navigation:
   - name: CIGARS (Part 2) by Dr. Jim Sass
     id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
     type: content
+  - name: Tools for Tots
+    id: 64e8435a-73f7-4b57-ba80-020d09140873
+    type: content
   - name: Delay or Avoid Dementia
     id: c374d543-25df-42fc-b85d-f7dcb4c4d0a2
     type: content
@@ -64,9 +67,6 @@ navigation:
   - name: Geeks and Gadgets
     url: 'http://geeks.itsamans.world'
     type: external
-  - name: Tools for Tots
-    id: 64e8435a-73f7-4b57-ba80-020d09140873
-    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
