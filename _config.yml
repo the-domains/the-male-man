@@ -46,14 +46,14 @@ navigation:
   - name: 'Passions, Hobbies and Pursuits'
     id: a19f7c6d-a528-4c2f-9366-578e43b05784
     type: content
+  - name: Tools for Tots
+    id: 64e8435a-73f7-4b57-ba80-020d09140873
+    type: content
   - name: CIGARS (Part 1) by Dr. Jim Sass
     id: f4a55617-2318-4dad-8d38-85f2cfb512ba
     type: content
   - name: CIGARS (Part 2) by Dr. Jim Sass
     id: 82aaf6af-ce5a-42af-97d0-4293f79ee900
-    type: content
-  - name: Tools for Tots
-    id: 64e8435a-73f7-4b57-ba80-020d09140873
     type: content
   - name: Delay or Avoid Dementia
     id: c374d543-25df-42fc-b85d-f7dcb4c4d0a2
