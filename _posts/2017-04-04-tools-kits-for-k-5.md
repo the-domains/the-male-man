@@ -4,18 +4,18 @@ description: >-
   So your child isn’t a toddler anymore. If he enjoyed his first toy tool kit,
   you may consider upping the game a bit. I looked at what is on the market and
   these items jumped out at me.
-dateModified: '2017-04-11T17:58:08.687Z'
-datePublished: '2017-04-11T17:58:09.729Z'
+dateModified: '2017-06-14T21:06:38.727Z'
+datePublished: '2017-06-14T21:06:39.245Z'
 title: Tool Kits (ages 7-11)
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxNkU9vEzEQxe98imgPvqXr7rabUOoiEBIUCaVSBBIna2LPbkz8ZxlPWNJPz8ZpJd7J82b889P43vUEAReZTx5VNTnL-7vrRo5_3-3RDXu-a27ORbUIQIOLZUBV8rW-DBUjG0reuzioKqZqUbi7RBbp0iajqrqe8jLCFQR4TnEJNp8yY7gyKdQzekDO9e_3W6Q_zuAPpOxSVI2UK7luGrGJ-HWrrsVmRAI-tz4jf7BfOHjxDeiA_OTBoPq-FTkdaT6BEYS94l6z8wKs5tOIaqRkj4b1HPYgmMAc5tTaWRWAfyVaNlKEghsL7hJ2Bg3nJ2d4sQNGVh-lfPv489PqaSMgu5j_N870R6v6FladsXJ323fdykIHuGvbZn2z7kzTt7ci79OkXxbVg89Ybuo0YszaRR1x0pOLNk2K6YhipHk32iSfSLVFgh37V0vKrjNS7IaXui-qHt4sZt3Xl_9--Adve67E
 sourcePath: _posts/2017-04-04-tools-kits-for-k-5.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-04T02:55:08.544Z'
-_type: MediaObject
+url: tool-kits-ages-7-11/index.html
+_type: Article
 
 ---
 # Tool Kits (ages 7-11)
