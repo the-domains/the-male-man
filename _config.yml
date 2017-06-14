@@ -55,6 +55,9 @@ navigation:
   - name: Delay or Avoid Dementia
     id: c374d543-25df-42fc-b85d-f7dcb4c4d0a2
     type: content
+  - name: Geeks and Gadgets
+    url: 'http://geeks.itsamans.world'
+    type: external
   - name: CIGARS (Part 1) by Dr. Jim Sass
     id: f4a55617-2318-4dad-8d38-85f2cfb512ba
     type: content
@@ -64,9 +67,6 @@ navigation:
   - name: CIGARS (Part 3) by Dr. Jim Sass
     id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
     type: content
-  - name: Geeks and Gadgets
-    url: 'http://geeks.itsamans.world'
-    type: external
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
