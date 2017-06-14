@@ -70,6 +70,9 @@ navigation:
   - name: Rebuilding YOU
     id: e886f0a0-2f3e-4f03-9b31-9d9f81de5daa
     type: content
+  - name: To Your Health!
+    id: bdc620c8-e85c-4368-a327-cfc6e2f2b3d8
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
