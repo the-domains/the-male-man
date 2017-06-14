@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: …Or maybe I did and ignored reality.
-dateModified: '2017-06-14T21:03:25.033Z'
-datePublished: '2017-06-14T21:03:26.055Z'
+dateModified: '2017-06-14T21:06:38.727Z'
+datePublished: '2017-06-14T21:06:39.219Z'
 title: I never knew…
 author: []
 publisher: {}
