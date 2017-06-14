@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Stopping or Delaying Dementia
-dateModified: '2017-06-14T21:10:38.418Z'
-datePublished: '2017-06-14T21:10:39.013Z'
+dateModified: '2017-06-14T21:12:13.626Z'
+datePublished: '2017-06-14T21:12:14.129Z'
 title: To Your Health
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-03-to-your-health.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-03T21:03:42.413Z'
-_type: Blurb
+url: to-your-health/index.html
+_type: Article
 
 ---
 # To Your Health
