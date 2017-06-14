@@ -55,15 +55,15 @@ navigation:
   - name: Delay or Avoid Dementia
     id: c374d543-25df-42fc-b85d-f7dcb4c4d0a2
     type: content
+  - name: 'So, just what is sexy?'
+    id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
+    type: content
   - name: CIGARS (Part 3) by Dr. Jim Sass
     id: 8f0e23ab-a933-414f-aecd-49f7b4ea6af6
     type: content
   - name: Geeks and Gadgets
     url: 'http://geeks.itsamans.world'
     type: external
-  - name: 'So, just what is sexy?'
-    id: c4021d9c-18db-4b72-85a2-c2c085bbc3f0
-    type: content
   - name: Tools for Tots
     id: 64e8435a-73f7-4b57-ba80-020d09140873
     type: content
