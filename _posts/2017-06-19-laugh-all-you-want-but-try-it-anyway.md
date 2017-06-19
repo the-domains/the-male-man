@@ -7,16 +7,18 @@ description: >-
   people.  But you can’t deny the huge market niche that has been created in the
   area of survival, safety and security.  Most of this industry’s better ideas
   are thanks to those guys we treated as punchlines.
-dateModified: '2017-06-19T05:14:59.929Z'
-datePublished: '2017-06-19T05:15:00.404Z'
+dateModified: '2017-06-19T05:17:40.201Z'
+datePublished: '2017-06-19T05:17:40.862Z'
 title: 'Laugh All You Want, But Try It Anyway.'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-19-laugh-all-you-want-but-try-it-anyway.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-19T05:15:00.404Z'
-sourcePath: _posts/2017-06-19-laugh-all-you-want-but-try-it-anyway.md
-_type: Blurb
+url: laugh-all-you-want-but-try-it-anyway/index.html
+_type: Article
 
 ---
 # Laugh All You Want, But Try It Anyway.
