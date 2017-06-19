@@ -73,6 +73,9 @@ navigation:
   - name: To Your Health!
     id: bdc620c8-e85c-4368-a327-cfc6e2f2b3d8
     type: content
+  - name: Men!   Meet Women the Right Way!
+    id: 500f3a25-1c1e-4bda-b400-54b93846d99e
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
