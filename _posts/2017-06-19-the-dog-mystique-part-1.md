@@ -4,8 +4,8 @@ description: >-
   One of my pet peeves is poor dog stewardship. A dog is a highly intelligent,
   social animal. They have been bred, for the most part, in protected domestic
   environments since before Egypt was a spec on the map.
-dateModified: '2017-06-19T21:22:21.936Z'
-datePublished: '2017-06-19T21:22:22.511Z'
+dateModified: '2017-06-19T21:30:45.624Z'
+datePublished: '2017-06-19T21:30:46.382Z'
 title: The Dog Mystique (Part 1)
 author: []
 publisher: {}
@@ -25,6 +25,7 @@ _type: Article
 One of my pet peeves is poor dog stewardship. A dog is a highly intelligent, social animal. They have been bred, for the most part, in protected domestic environments since before Egypt was a spec on the map.
 
 For this reason, they have evolved into loyal, useful animals who bond significantly with their human families. As a result of this breeding and evolution, they have needs that must be met if they are to be healthy and happy.
+![This is our labradoodle, Maggie.  When we first saw her, she was smaller than her head is now.  She is affectionate, loyal and very bright. She finds a way to make me laugh every day.  She has recently discovered flying insects.  Watching her trying to catch them is a scream.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/550388a1-9399-4cc2-8b6f-b0d046f64a55.jpg)
 
 ## Some People Should Own Dogs
 
