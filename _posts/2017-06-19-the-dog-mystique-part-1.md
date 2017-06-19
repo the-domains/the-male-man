@@ -4,16 +4,18 @@ description: >-
   One of my pet peeves is poor dog stewardship. A dog is a highly intelligent,
   social animal. They have been bred, for the most part, in protected domestic
   environments since before Egypt was a spec on the map.
-dateModified: '2017-06-19T21:21:36.934Z'
-datePublished: '2017-06-19T21:21:37.407Z'
+dateModified: '2017-06-19T21:22:21.936Z'
+datePublished: '2017-06-19T21:22:22.511Z'
 title: The Dog Mystique (Part 1)
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-19-the-dog-mystique-part-1.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-19T21:21:37.407Z'
-sourcePath: _posts/2017-06-19-the-dog-mystique-part-1.md
-_type: Blurb
+url: the-dog-mystique-part-1/index.html
+_type: Article
 
 ---
 # The Dog Mystique (Part 1)
