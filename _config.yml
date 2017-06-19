@@ -76,6 +76,9 @@ navigation:
   - name: Men!   Meet Women the Right Way!
     id: 500f3a25-1c1e-4bda-b400-54b93846d99e
     type: content
+  - name: The Dog Mystique (Part 1)
+    id: d675bf30-b84d-489a-939b-8291e8b5c30c
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
