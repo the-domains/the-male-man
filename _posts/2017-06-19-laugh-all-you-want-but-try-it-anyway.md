@@ -7,8 +7,8 @@ description: >-
   people.  But you can’t deny the huge market niche that has been created in the
   area of survival, safety and security.  Most of this industry’s better ideas
   are thanks to those guys we treated as punchlines.
-dateModified: '2017-06-19T05:17:40.201Z'
-datePublished: '2017-06-19T05:17:40.862Z'
+dateModified: '2017-06-22T02:22:05.352Z'
+datePublished: '2017-06-22T02:22:05.976Z'
 title: 'Laugh All You Want, But Try It Anyway.'
 author: []
 publisher: {}
@@ -25,17 +25,17 @@ _type: Article
 
 Do you remember how we all used to laugh at "preppers" and survivalists? Yeah, the original guys were often a bit odd, trying their best to look like cast members of Duck Dynasty. And they were often too political for most people. But you can't deny the huge market niche that has been created in the area of survival, safety and security. Most of this industry's better ideas are thanks to those guys we treated as punchlines.
 
-I want you to keep that in mind as we talk today.
+This article isn't about survival. But I want you to keep those pioneers in mind as we talk today.
 
 ## 1\. The Butterfly Boys
 
-In the Philippines the women had a label for guys who never stayed with the same girl. They called them butterfly boys. The type that went from one girl to the next. If you were honest and told them upfront your were butterfly boy they would be okay with it and decide if they wanted to date you anyway. BUT if you didn't tell them and still went from girl to girl while dating them...well...let's just say many of those ladies were handy with a butterfly _**knife. **_Nasty weapon.
+In the Philippines the women had a label for guys who never stayed with the same girl. They called them butterfly boys. The type that went from one girl to the next. If you were honest and told them upfront your were butterfly boy they would be okay with it and decide if they wanted to date you anyway. BUT if you didn't tell them and still went from girl to girl _while dating them_...well...let's just say many of those ladies were handy with a butterfly _**knife. **_Nasty weapon.
 
-There are butterfly boys everywhere. Here, guys go from girl to girl. Some do it because they can without regard for a woman's feelings. Depending on the type of girl you are dating, we can just call that your thing. If you take advantage of females and lie to them outright, you're an asshole.
+There are butterfly boys everywhere. Here, in America, guys go from girl to girl. Some do it because they can, without regard for a woman's feelings. Depending on the type of girl you are dating, we can just call that your thing. If you take advantage of females and lie to them outright, you're an asshole.
 
-But this section is for the butterfly boys who don't intend to be that. They go from girl to girl because they keep picking up the wrong girls, sometimes too few of even those. But when they do meet women, they pick the low-hanging fruit. They operate from a fear of rejection and pick someone who they feel confident about, who might be "needy" enough to spend time with them. They are bronze medal picks, sometimes silver, never gold medal material.
+But this section is for the butterfly boys who don't intend to be that. They go from girl to girl because they keep picking up the wrong girls, sometimes too few of even those. But when they do meet women, they pick the low-hanging fruit. They operate from a fear of rejection and pick someone who they feel confident about. They pick a girl who might be "needy" enough to spend time with them. These are bronze medal picks, sometimes silver, never gold medal material.
 
-This being a terrible way to chose company, it usually ends with an early exit. Both parties are disappointed. But what if you had the moxie and the know-how to meet the girl who usually intimidates you - I am talking about the one you are _**sure**_ wouldn't give you a second look - and walk away her?
+This being a terrible way to chose company, much less finding love, it usually ends with an early exit. Both parties are disappointed. But what if you had the moxie and the know-how to meet the girl who usually intimidates you - I am talking about the one you are _**sure**_ wouldn't give you a second look - and walk away her?
 
 First, to allay a bit of your disbelief, I'll say that she is likely as full of shit as anyone. And at first glance, she isn't thinking about your faults. She, like every other person on the planet, is worried about her own.
 
@@ -43,7 +43,7 @@ So what can you do with this information? Just [click here.][0] And if you find 
 
 ## For the More Mature Male
 
-For whatever reason, career, divorce or worse, many of us find ourselves middle-aged or older and alone. We've been out to the game for years or decades. Our friends, bless their meddling hearts, try their best to help but we don't have that perfect person we need in our lives. 
+For whatever reason, career, divorce or worse, many of us find ourselves middle-aged or older and alone. We've been out to the game for years or decades. Our friends, bless their meddling hearts, try their best to help but we don't have that perfect person we need in our lives.
 
 Guys in this position are rarely looking for the low-hanging fruit; the easy score.
 
@@ -53,7 +53,7 @@ Well, think about those older guys, none too good-looking, you see at resorts an
 
 There are lots of guys our age, with not much going for them, with trophy wives who adore them.
 
-[This is for my middle-aged bros. Click here. ][0]
+[This is for my middle-aged bros. Click here.][0]
 
 And again...I laughed at the "preppers"...before I bought my first multi-purpose walking stick or firearm. They have served me well.
 
