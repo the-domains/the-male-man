@@ -7,8 +7,8 @@ description: >-
   people.  But you can’t deny the huge market niche that has been created in the
   area of survival, safety and security.  Most of this industry’s better ideas
   are thanks to those guys we treated as punchlines.
-dateModified: '2017-06-22T02:22:05.352Z'
-datePublished: '2017-06-22T02:22:05.976Z'
+dateModified: '2017-06-22T02:30:01.857Z'
+datePublished: '2017-06-22T02:30:03.163Z'
 title: 'Laugh All You Want, But Try It Anyway.'
 author: []
 publisher: {}
@@ -53,7 +53,7 @@ Well, think about those older guys, none too good-looking, you see at resorts an
 
 There are lots of guys our age, with not much going for them, with trophy wives who adore them.
 
-[This is for my middle-aged bros. Click here.][0]
+### [This is for my middle-aged bros. Click here.][0]
 
 And again...I laughed at the "preppers"...before I bought my first multi-purpose walking stick or firearm. They have served me well.
 
