@@ -1,14 +1,14 @@
 ---
 inFeed: true
 description: >-
-  Do you remember how we all used to laugh at “preppers” and survivalists? 
-  Yeah, the original guys were often a bit odd, trying their best to look like
-  cast members of Duck Dynasty.  And they were often too political for most
-  people.  But you can’t deny the huge market niche that has been created in the
-  area of survival, safety and security.  Most of this industry’s better ideas
-  are thanks to those guys we treated as punchlines.
-dateModified: '2017-06-22T02:30:01.857Z'
-datePublished: '2017-06-22T02:30:03.163Z'
+  Do you remember how we all used to laugh at “preppers” and survivalists? Yeah,
+  the original guys were often a bit odd, trying their best to look like cast
+  members of Duck Dynasty. And they were often too political for most people.
+  But you can’t deny the huge market niche that has been created in the area of
+  survival, safety and security. Most of this industry’s better ideas are thanks
+  to those guys we treated as punchlines.
+dateModified: '2017-06-22T03:26:49.073Z'
+datePublished: '2017-06-22T03:26:49.733Z'
 title: 'Laugh All You Want, But Try It Anyway.'
 author: []
 publisher: {}
@@ -55,7 +55,7 @@ There are lots of guys our age, with not much going for them, with trophy wives 
 
 ### [This is for my middle-aged bros. Click here.][0]
 
-And again...I laughed at the "preppers"...before I bought my first multi-purpose walking stick or firearm. They have served me well.
+And again...I laughed at the "preppers"...before I bought my first multi-purpose walking stick or firearm. They have served me well. And I used to laugh at the "How to Pick Up Women" ads until the multi-billion dollar explosion of dating sites the recycle a lot of that old crap. Now there's this.
 
 All the best guys!
 
