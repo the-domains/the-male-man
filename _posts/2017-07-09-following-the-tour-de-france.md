@@ -6,16 +6,18 @@ description: >-
   occurs in the dead of summer makes the more grueling stages that much more
   impressive.  (Full disclosure - even when I do participate in bicycle events,
   I always look for the ones that occur on the coast.  No hills.)
-dateModified: '2017-07-09T21:05:12.214Z'
-datePublished: '2017-07-09T21:05:12.724Z'
+dateModified: '2017-07-09T21:08:25.250Z'
+datePublished: '2017-07-09T21:08:25.767Z'
 title: Following the Tour de France
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-09-following-the-tour-de-france.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-09T21:05:12.724Z'
-sourcePath: _posts/2017-07-09-following-the-tour-de-france.md
-_type: Blurb
+url: following-the-tour-de-france/index.html
+_type: Article
 
 ---
 # Following the Tour de France
