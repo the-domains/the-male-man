@@ -79,6 +79,9 @@ navigation:
   - name: The Dog Mystique (Part 1)
     id: d675bf30-b84d-489a-939b-8291e8b5c30c
     type: content
+  - name: Following the Tour
+    id: 0d7fafae-cec9-4e4a-bf1f-99419686af30
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
