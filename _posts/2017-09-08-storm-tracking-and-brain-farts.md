@@ -1,18 +1,20 @@
 ---
 inFeed: true
-description: "It’s been an interesting week if you like storm tracking.  I follow huricanes and snow\nstorms and try to beat the professional meteorologists for timing and accuracy\nof a storm’s path.\_ I do pretty well.\_ I did really well with Matthew last year.  The TV guys were throwing darts all over the southeast coast right up until the last possible\nminute.\_ I had it pegged to weaken and hit South Carolina two days prior to landfall."
-dateModified: '2017-09-08T23:11:05.024Z'
-datePublished: '2017-09-08T23:11:05.568Z'
+description: "It’s been an interesting week if you like storm tracking.\_ I follow huricanes and snow\nstorms and try to beat the professional meteorologists for timing and accuracy\nof a storm’s path.\_ I do pretty well.\_ I did really well with Matthew last year.\_ The TV guys were throwing darts all over the southeast coast right up until the last possible\nminute.\_ I had it pegged to weaken and hit South Carolina two days prior to landfall."
+dateModified: '2017-09-08T23:13:39.565Z'
+datePublished: '2017-09-08T23:13:41.765Z'
 title: |-
   Storm Tracking and
   Brain Farts
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-08-storm-tracking-and-brain-farts.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-08T23:11:05.568Z'
-sourcePath: _posts/2017-09-08-storm-tracking-and-brain-farts.md
-_type: Blurb
+url: storm-tracking-and-brain-farts/index.html
+_type: Article
 
 ---
 # Storm Tracking and
