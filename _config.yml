@@ -82,6 +82,9 @@ navigation:
   - name: Following the Tour
     id: 0d7fafae-cec9-4e4a-bf1f-99419686af30
     type: content
+  - name: Storm preps
+    id: a7203520-83e6-459f-994e-c33259512466
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
