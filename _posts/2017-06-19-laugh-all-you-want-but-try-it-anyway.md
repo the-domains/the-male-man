@@ -7,8 +7,8 @@ description: >-
   But you can’t deny the huge market niche that has been created in the area of
   survival, safety and security. Most of this industry’s better ideas are thanks
   to those guys we treated as punchlines.
-dateModified: '2017-09-09T19:36:11.489Z'
-datePublished: '2017-09-09T19:36:12.272Z'
+dateModified: '2017-09-09T19:36:40.984Z'
+datePublished: '2017-09-09T19:36:50.916Z'
 title: 'Laugh All You Want, But Try It Anyway.'
 author: []
 publisher: {}
@@ -39,7 +39,7 @@ This being a terrible way to chose company, much less finding love, it usually e
 
 First, to allay a bit of your disbelief, I'll say that she is likely as full of shit as anyone. And at first glance, she isn't thinking about your faults. She, like every other person on the planet, is worried about her own.
 
-So what can you do with this information? Just [click here.][0] And if you find yourself feeling a bit incredulous, remember the "preppers".
+So what can you do with this information? Just _**[click here.][0]**_ And if you find yourself feeling a bit incredulous, remember the "preppers".
 
 ## For the More Mature Male
 
@@ -53,7 +53,7 @@ Well, think about those older guys, none too good-looking, you see at resorts an
 
 There are lots of guys our age, with not much going for them, with trophy wives who adore them.
 
-### [This is for my middle-aged bros. Control-click here.][1]
+### [This is for my middle-aged bros. Control-click here.][0]
 
 And again...I laughed at the "preppers"...before I bought my first multi-purpose walking stick or firearm. They have served me well. And I used to laugh at the "How to Pick Up Women" ads until the multi-billion dollar explosion of dating sites the recycle a lot of that old crap. Now there's this.
 
@@ -61,5 +61,4 @@ All the best guys!
 
 Disclaimer: Many of the links you see on this site have a fiduciary relationship with itsamans.world. We make no claims about the products or services rendered or how you might use them. But we try to bring content appropriate products and services to your attention when we can.
 
-[0]: http://ec68dcrerns4th98ncpev10ib9.hop.clickbank.net/
-[1]: http://33cbady01btgnn36ogu9iv1jaw.hop.clickbank.net/
+[0]: http://33cbady01btgnn36ogu9iv1jaw.hop.clickbank.net/
