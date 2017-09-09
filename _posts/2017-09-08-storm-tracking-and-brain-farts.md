@@ -7,8 +7,8 @@ description: >-
   last year. The TV guys were throwing darts all over the southeast coast right
   up until the last possible minute. I had it pegged to weaken and hit South
   Carolina two days prior to landfall.
-dateModified: '2017-09-09T18:57:42.479Z'
-datePublished: '2017-09-09T18:57:43.445Z'
+dateModified: '2017-09-09T18:59:22.261Z'
+datePublished: '2017-09-09T18:59:23.154Z'
 title: Storm Tracking and Brain Farts
 author: []
 publisher: {}
@@ -66,3 +66,7 @@ There is much more to all this. I will cover it over in the next few installment
 If you are in south Florida right now, go to shelter or as high as you can in a concrete building. If you are on the ground, at sea level you will likely have a very bad time of it.
 
 Let's hope I, **and the real meteorologists, **are totally wrong on this one. Let's hope the wind sheer is kick-ass! Let's hope that front catches a strong bite of Irma and sends her back out into the Atlantic. If it does, the worst-case scenario is that a lot of people had a really shitty road trip and life can go on.
+
+_**Like the page says: "Survive in Style!" You'll be amazed at the number of uses these cords have. A must for every safety and securtity kit, and bug out bag.**_
+
+    <img src='http://affiliate.survivalfrog.com/image/patrioticparacord_clickbank/Paracord%20Banner_300x250_02a.jpg' style='width: 300px; height: 250px;'>
