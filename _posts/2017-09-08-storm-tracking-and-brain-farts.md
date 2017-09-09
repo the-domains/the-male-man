@@ -7,8 +7,8 @@ description: >-
   last year. The TV guys were throwing darts all over the southeast coast right
   up until the last possible minute. I had it pegged to weaken and hit South
   Carolina two days prior to landfall.
-dateModified: '2017-09-09T19:03:20.119Z'
-datePublished: '2017-09-09T19:03:20.953Z'
+dateModified: '2017-09-09T19:07:03.092Z'
+datePublished: '2017-09-09T19:07:04.016Z'
 title: Storm Tracking and Brain Farts
 author: []
 publisher: {}
@@ -71,4 +71,4 @@ Let's hope I, **and the real meteorologists, **are totally wrong on this one. Le
 
 _**Like the page says: "Survive in Style!" [You'll be amazed at the number of uses these cords have. A must for every safety and security kit, and bug out bag.][0]**_
 
-[0]: http://<img src='http//affiliate.survivalfrog.com/image/patrioticparacord_clickbank/Paracord%20Banner_300x250_02a.jpg' style='width: 300px; height: 250px;'>
+[0]: http://spgoodies1.srvvlfrog.hop.clickbank.net/?p=pp&tid=
