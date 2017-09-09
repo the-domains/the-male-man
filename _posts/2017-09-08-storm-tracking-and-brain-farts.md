@@ -1,14 +1,14 @@
 ---
 inFeed: true
 description: >-
-  It’s been an interesting week if you like storm tracking. I follow huricanes
+  It’s been an interesting week if you like storm tracking. I follow hurricanes
   and snow storms and try to beat the professional meteorologists for timing and
   accuracy of a storm’s path. I do pretty well. I did really well with Matthew
   last year. The TV guys were throwing darts all over the southeast coast right
   up until the last possible minute. I had it pegged to weaken and hit South
   Carolina two days prior to landfall.
-dateModified: '2017-09-09T18:00:09.040Z'
-datePublished: '2017-09-09T18:00:10.812Z'
+dateModified: '2017-09-09T18:57:38.663Z'
+datePublished: '2017-09-09T18:57:40.069Z'
 title: Storm Tracking and Brain Farts
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 ---
 # Storm Tracking and Brain Farts
 
-It's been an interesting week if you like storm tracking. I follow huricanes and snow storms and try to beat the professional meteorologists for timing and accuracy of a storm's path. I do pretty well. I did really well with _**Matthew **_last year. The TV guys were throwing darts all over the southeast coast right up until the last possible minute. I had it pegged to weaken and hit South Carolina two days prior to landfall.
+It's been an interesting week if you like storm tracking. I follow hurricanes and snow storms and try to beat the professional meteorologists for timing and accuracy of a storm's path. I do pretty well. I did really well with _**Matthew **_last year. The TV guys were throwing darts all over the southeast coast right up until the last possible minute. I had it pegged to weaken and hit South Carolina two days prior to landfall.
 
 I started tracking Irma early on. The weather guys started talking about Irma going up the east coast days ago. But I could not see their logic. Using the same information they use, without the luxury of their computer modeling, I failed to see the prevailing conditions developing to steer the storm north until today. Even now, I don't see an abrupt turn north.
 
@@ -51,13 +51,13 @@ Okay generator's working. I put it under a load for a bit, running some shop too
 
 When you do your preps for future events (too late for Fl and TX) be sure to get gallons of water along with bottles. AND don't get confused and get distilled water. That can injure or kill you. **You don't drink distilled water!**
 
-Get marine-grade (boat) fuel. This will be for power equipment like chain saws lawn tractors and generators. Regular gas has ethanol in it. Ethanol is a worthless additive we are forced by corrupt laws to put on our cars. It is not good for our cars, but it can trash small engines. And you don't want that to happen in a pinch.
+Get marine-grade (boat) fuel. This will be for power equipment like chain saws, lawn tractors and generators. Regular gas has ethanol in it. Ethanol is a worthless additive we are forced by corrupt laws to put in our cars. It is not good for our cars, but it can trash small engines. And you don't want that to happen in a pinch.
 
-You should remember (as I never do) to run your generatorevery couple of months and put it under an electrical load. From what industrial generator experts tell me, that is not only an important test, it is good for the generator. Don't ask me why.
+You should remember (as I never do) to run your generator every couple of months and put it under an electrical load. From what industrial generator experts tell me, that is not only an important test, it is good for the generator. Don't ask me why.
 
 Big D-cell flashlights are good. Bigger dry cell lamps are better. Lots of small led devices are very handy.
 
-Canned meats and canned meals that are actually precooked are great to have. You can heat them up in the can. And if you are really stuck for a heat source, they can be eaten cold. If you have military style MRE's you in like Flynn. Rations have come a long way since I was a Beach Master in the early 80's. I wasn't a fan of half of what you'd find in a case of C-rats.
+Canned meats and canned meals that are actually precooked are great to have. You can heat them up in the can. And if you are really stuck for a heat source, they can be eaten cold. If you have military style MRE's you are in like Flynn. Rations have come a long way since I was a Beach Master in the early 80's. I wasn't a fan of half of what you'd find in a case of C-rats.
 
 Decide ahead of time if you are going to evacuate or ride out a storm. If you decide to bug out, go early. Go as soon as evacuation talk starts. If you wait for the order you'll be where people in the southeast are today. You'll be sitting on a highway for possibly days.
 
@@ -65,4 +65,4 @@ There is much more to all this. I will cover it over in the next few installment
 
 If you are in south Florida right now, go to shelter or as high as you can in a concrete building. If you are on the ground, at sea level you will likely have a very bad time of it.
 
-Let's hope I, **and the real meteorologists, **are totally wrong on this one. Let's hope the wind sheer is kick-ass! Let's hope that front catches a strong bite of Irma and sends her back out into the Atlantic. If it does, the worst-case scenario is that alot of people had a really shitty road trip and life can go on.
+Let's hope I, **and the real meteorologists, **are totally wrong on this one. Let's hope the wind sheer is kick-ass! Let's hope that front catches a strong bite of Irma and sends her back out into the Atlantic. If it does, the worst-case scenario is that a lot of people had a really shitty road trip and life can go on.
