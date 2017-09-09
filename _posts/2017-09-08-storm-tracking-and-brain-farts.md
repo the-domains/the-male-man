@@ -7,8 +7,8 @@ description: >-
   last year. The TV guys were throwing darts all over the southeast coast right
   up until the last possible minute. I had it pegged to weaken and hit South
   Carolina two days prior to landfall.
-dateModified: '2017-09-09T18:57:38.663Z'
-datePublished: '2017-09-09T18:57:40.069Z'
+dateModified: '2017-09-09T18:57:42.479Z'
+datePublished: '2017-09-09T18:57:43.445Z'
 title: Storm Tracking and Brain Farts
 author: []
 publisher: {}
