@@ -4,8 +4,8 @@ description: >-
   “A man doesn't have time in his life to have time for everything. He doesn't
   have seasons enough to have a season for every purpose. Ecclesiastes Was wrong
   about that.”
-dateModified: '2017-06-14T21:06:38.727Z'
-datePublished: '2017-06-14T21:06:39.250Z'
+dateModified: '2018-04-19T13:46:23.258Z'
+datePublished: '2018-04-19T13:46:23.752Z'
 title: …But Not Every Guy is Married With Kids.
 author: []
 publisher: {}
@@ -36,8 +36,8 @@ The single man must make his life, and find success and maturity through his own
 
 Does he have greater freedom? Of course. But he has no counterweight to help him modulate how he enjoys that freedom. He only has his own ambition and his own conscience to guide him.
 
-It is as a single man he should develop his passions. If his work is his passion, he is lucky indeed, but even that isn't enough to round him out and allow him to make the most of his world. A few days hiking the Appalachian Trail or working wood into a desk or repairing a small engine will help him to take on his professional or trade challanges afresh for the following week.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/95184b24843201b63240e7a992299c76/croprotate.jpg?cropheight=3426&cropwidth=4904&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F9951dc6d9a6f3a243f620c09c929656abfedc806.jpg&x=30&y=0)
+It is as a single man he should develop his passions. If his work is his passion, he is lucky indeed, but even that isn't enough to round him out and allow him to make the most of his world. A few days hiking the Appalachian Trail or working wood into a desk or repairing a small engine will help him to take on his professional or trade challenges afresh for the following week.
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/939c7602ca30d0525896594cc4940802/croprotate.jpg?cropheight=3425&cropwidth=4904&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd3d4e26b91cfaf378c347bbcedfc82a2a0717e04.jpg&x=0&y=0)
 
 And of course, unless he intends to remain single, he must balance his freedom and maneuverability against the possibility of attracting his soul mate. This is the hardest and most critical task of all.
 
