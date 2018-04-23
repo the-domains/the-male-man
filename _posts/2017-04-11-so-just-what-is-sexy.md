@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   I have plans for a series of posts here. I want to verify or disprove a
   theory. Please take our poll and I’ll let you know when my series starts.
-dateModified: '2018-04-23T23:06:52.436Z'
-datePublished: '2018-04-23T23:06:53.034Z'
+dateModified: '2018-04-23T23:09:51.184Z'
+datePublished: '2018-04-23T23:09:51.785Z'
 title: So Just What is Sexy?
 author: []
 publisher: {}
