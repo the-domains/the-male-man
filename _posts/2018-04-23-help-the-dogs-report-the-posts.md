@@ -1,11 +1,11 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Caveat: There will be many Facebook goofballs who will not read this post but
   will say stupid things about it. It will be interesting to see how many. And
   every time it happens I’ll call them out.
-dateModified: '2018-04-23T23:06:52.436Z'
-datePublished: '2018-04-23T23:06:52.980Z'
+dateModified: '2018-04-23T23:08:20.837Z'
+datePublished: '2018-04-23T23:08:21.381Z'
 title: Help the dogs! Report the posts!
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-23T23:03:57.901Z'
 url: help-the-dogs-report-the-posts/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Help the dogs! Report the posts!
