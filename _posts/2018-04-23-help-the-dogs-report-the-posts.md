@@ -4,8 +4,8 @@ description: >-
   Caveat: There will be many Facebook goofballs who will not read this post but
   will say stupid things about it. It will be interesting to see how many. And
   every time it happens I’ll call them out.
-dateModified: '2018-04-23T23:06:33.728Z'
-datePublished: '2018-04-23T23:06:34.347Z'
+dateModified: '2018-04-23T23:06:52.436Z'
+datePublished: '2018-04-23T23:06:52.980Z'
 title: Help the dogs! Report the posts!
 author: []
 publisher: {}
