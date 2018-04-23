@@ -4,8 +4,8 @@ description: >-
   “A man doesn't have time in his life to have time for everything. He doesn't
   have seasons enough to have a season for every purpose. Ecclesiastes Was wrong
   about that.”
-dateModified: '2018-04-23T23:06:52.436Z'
-datePublished: '2018-04-23T23:06:53.040Z'
+dateModified: '2018-04-23T23:09:51.184Z'
+datePublished: '2018-04-23T23:09:51.810Z'
 title: …But Not Every Guy is Married With Kids.
 author: []
 publisher: {}
