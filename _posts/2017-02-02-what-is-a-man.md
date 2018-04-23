@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There is an image of what Americans see as manhood that isn’t quite uniquely
   American, but it’s close.
-dateModified: '2017-06-14T21:06:38.727Z'
-datePublished: '2017-06-14T21:06:39.235Z'
+dateModified: '2018-04-23T23:06:52.436Z'
+datePublished: '2018-04-23T23:06:53.037Z'
 title: What is a Man?
 author: []
 publisher: {}
