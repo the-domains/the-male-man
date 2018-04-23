@@ -85,6 +85,9 @@ navigation:
   - name: Storm preps
     id: a7203520-83e6-459f-994e-c33259512466
     type: content
+  - name: Help the Dogs! Shut up!
+    id: 0afc370c-8e8f-4008-bccf-44173ad83c82
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
