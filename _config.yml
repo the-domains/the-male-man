@@ -88,6 +88,9 @@ navigation:
   - name: Help the Dogs! Shut up!
     id: 0afc370c-8e8f-4008-bccf-44173ad83c82
     type: content
+  - name: 'Farewell Charlie K, and Thank You'
+    id: 9a473074-85b9-44c5-9b0d-150170c3ef1f
+    type: content
 title: It's a MAN's World
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
