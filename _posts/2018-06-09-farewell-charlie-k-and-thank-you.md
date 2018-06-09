@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Just when I thought my day couldn’t grow darker (I am in the second day of an unsuccessful search for a lost and beloved dog) I learned Charles Krauthammer has written his farewell to readers, listeners and colleagues. \_Soon another great voice\nwill go silent."
-dateModified: '2018-06-09T01:32:29.020Z'
-datePublished: '2018-06-09T01:32:30.340Z'
+dateModified: '2018-06-09T01:33:38.486Z'
+datePublished: '2018-06-09T01:33:39.217Z'
 title: 'Farewell Charlie K, and Thank You.'
 author: []
 publisher: {}
