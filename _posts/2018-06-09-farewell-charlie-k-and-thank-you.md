@@ -1,22 +1,18 @@
 ---
 inFeed: true
-description: >-
-  Just when I thought my day couldn’t grow darker (I am in the second day of an
-  unsuccessful search for a lost and beloved dog) I learned Charles Krauthammer
-  has written his farewell to readers, listeners and colleagues.  Soon another
-  great voice
-
-  will go silent.
-dateModified: '2018-06-09T01:32:12.628Z'
-datePublished: '2018-06-09T01:32:13.428Z'
+description: "Just when I thought my day couldn’t grow darker (I am in the second day of an unsuccessful search for a lost and beloved dog) I learned Charles Krauthammer has written his farewell to readers, listeners and colleagues. \_Soon another great voice\nwill go silent."
+dateModified: '2018-06-09T01:32:29.020Z'
+datePublished: '2018-06-09T01:32:30.340Z'
 title: 'Farewell Charlie K, and Thank You.'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-09-farewell-charlie-k-and-thank-you.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-09T01:32:13.428Z'
-sourcePath: _posts/2018-06-09-farewell-charlie-k-and-thank-you.md
-_type: Blurb
+url: farewell-charlie-k-and-thank-you/index.html
+_type: Article
 
 ---
 # Farewell Charlie K, and Thank You.
